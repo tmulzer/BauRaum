@@ -1,2 +1,2 @@
-# MakerSpace
-Konzept für einen MakerSpace an der Beuth Hochschule für Technik
+# BHT-FabLab
+Konzept für ein FabLab an der Beuth Hochschule für Technik
